@@ -27,7 +27,7 @@ factorialize(5);
 
 ### My solution:
 
-[Live Example](https://jsfiddle.net/fininhop/8ghLc06j/)
+[Live Example](https://jsfiddle.net/fininhop/8ghLc06j/1/)
 
 ```javascript
 function factorialize(num) {
