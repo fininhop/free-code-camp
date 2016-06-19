@@ -28,3 +28,49 @@ function reverseString(str) {
 
 reverseString("hello");
 ```
+
+### My solution:
+#### Solution n°1:
+
+```javascript
+function reverseString(str) {
+  var arrStr = str.split('');
+  
+  arrStr = arrStr.reverse();
+  str = arrStr.join('');
+  return str;
+}
+
+reverseString("hello");
+```
+
+#### Solution n°2:
+
+```javascript
+function reverseString(str) {
+  return str.split('').reverse().join('');
+}
+
+reverseString("hello");
+```
+
+### Explanation:
+_Both solutions do the same._
+
+##### First : 
+```javascript
+//Transform the string of chars into an array. 
+var arrStr = str.split('');
+```
+
+##### Seccond:
+```javascript
+//Reverse the resulting array.
+arrStr = arrStr.reverse();
+```
+
+##### Third:
+```javascript
+//Join the elements of the resulting reversed array, into a new string of chars.
+str = arrStr.join('');
+```
