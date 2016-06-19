@@ -94,7 +94,7 @@ arrWords.map(function(val){
   //Get the first character, and transform it into capital.
   arrChars[0] = arrChars[0].toUpperCase();
   
-  //Set the first letter capitalized to the word with the corresponding index.
+  //Set the first letter capitalized, to the word with the corresponding index.
   arrWords[i] = arrChars.join('');
   
   i++;
