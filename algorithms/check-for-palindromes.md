@@ -67,8 +67,9 @@ _Remember: To test your regular expressions. You can use websites like:_ https:/
   g modifier: global. All matches (don't return on first match)_
 */
 ```
+##### Steps: 
 
-##### First: 
+###### First: 
 ```javascript
 //Make the string lower case.
 //Use the javascript replace() method with the previous regular expression to remove all the matches.
@@ -76,7 +77,7 @@ _Remember: To test your regular expressions. You can use websites like:_ https:/
 str = str.toLowerCase().replace(/\W|\_|\s/g, '');
 ```
 
-##### Second: 
+###### Second: 
 
 _Already been done._ >> [Reverse a String](https://github.com/fininhop/free-code-camp/blob/master/algorithms/reverse-a-string.md)
 
@@ -86,7 +87,7 @@ _Already been done._ >> [Reverse a String](https://github.com/fininhop/free-code
 strReverse = str.split('').reverse().join('');
 ```
 
-##### Third: 
+###### Third: 
 ```javascript
 //If the reversed string is equal the original string this word is a palindrome.
 
