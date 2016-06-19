@@ -1,6 +1,6 @@
 # Factorialize a Number
 
-### Challenge description:
+### Challenge:
 
 	* Return the factorial of the provided integer.
 	* If the integer is represented with the letter n.
@@ -9,7 +9,7 @@
 	* For example: 5! = 1 * 2 * 3 * 4 * 5 = 120
 	* Remember to use 'Read Search Ask' if you get stuck. Write your own code.
 
-### Challenge hints:
+### Helpful links:
 
   1 . [Arithmetic Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
   
