@@ -91,8 +91,7 @@ arrStr.map(function(val){
 ```javascript
 //This means it is the first round.
 if(i === 1){
-  //Set the variable called (bigger),
-  //with the total number of characters in the target (srt).
+  //Set the variable called (bigger), with the total number of characters in the target (srt).
   bigger = val.length;  
 ```
 
