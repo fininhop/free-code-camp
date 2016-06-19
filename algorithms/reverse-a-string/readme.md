@@ -1,21 +1,20 @@
 # Reverse a String
 
-# Roules:
+### Challenge description:
 
-Reverse the provided string.
+	* Reverse the provided string.
+	* You may need to turn the string into an array before you can reverse it.
+	* Your result must be a string.
+	* Remember to use 'Read Search Ask' if you get stuck. Write your own code.
 
-You may need to turn the string into an array before you can reverse it.
+### Challenge hints:
 
-Your result must be a string.
-
-Remember to use Read-Search-Ask if you get stuck. Write your own code.
-
-# Hints:
-
-  Global String Object
+  [Global String Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
   
-  String.split()
+  [String.split()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
   
-  Array.reverse()
+  [Array.reverse()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse)
   
-  Array.join()
+  [Array.join()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
+
+	[Read-Search-Ask](https://github.com/FreeCodeCamp/freecodecamp/wiki/FreeCodeCamp-Get-Help)
