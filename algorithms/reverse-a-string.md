@@ -32,6 +32,8 @@ reverseString("hello");
 ### My solution:
 #### Solution n°1:
 
+[Live example](https://jsfiddle.net/fininhop/bzpz9bLg/1/)
+
 ```javascript
 function reverseString(str) {
   var arrStr = str.split('');
@@ -45,6 +47,8 @@ reverseString("hello");
 ```
 
 #### Solution n°2:
+
+[Live Example](https://jsfiddle.net/fininhop/uytyzh6u/)
 
 ```javascript
 function reverseString(str) {
