@@ -100,8 +100,8 @@ if(i === 1){
 ```javascript
 else{
 //Now, the variable (bigger) has a value.
-//Therefore, if the current word has more characters, than the previous one?
-//The variable (bigger) is updated.
+//Therefore, if the current word has more characters than the largest word above (bigger) has?
+//The variable (bigger) is updated to the largest.
 if(bigger < val.length)
   bigger = val.length;
 ```
