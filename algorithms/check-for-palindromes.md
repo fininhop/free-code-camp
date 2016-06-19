@@ -20,7 +20,7 @@
   
 ### I add:
 
-  1 . [Object.RegExp()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/RegExp)
+  1 . [Object.RegExp()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
 
 ### Initial code:
 
