@@ -61,7 +61,7 @@ reverseString("hello");
 ### Explanation:
 _Both solutions do exactly the same thing._
 
-_As we can see in the second example. It is possible to do all the actions in the first example. Simply using a single line of code._
+_As we can see in the second example. It is possible to do all the actions realized in the first example. Just using a single line of code._
 
 ##### Steps : 
 ###### First : 
