@@ -18,3 +18,13 @@
   [Array.join()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
   
   [ReadSearchAsk](https://github.com/FreeCodeCamp/freecodecamp/wiki/FreeCodeCamp-Get-Help)
+
+### Initial code:
+
+```javascript
+function reverseString(str) {
+  return str;
+}
+
+reverseString("hello");
+```
