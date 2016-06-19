@@ -63,19 +63,20 @@ _Both solutions do exactly the same thing._
 
 _Like we can see with the seccond example. Is possible to do all the actions presents on the first example. Just using one single line of code._
 
-##### First : 
+##### Steps : 
+###### First : 
 ```javascript
 //Transform the string of chars into an array. 
 var arrStr = str.split('');
 ```
 
-##### Second:
+###### Second:
 ```javascript
 //Reverse the resulting array.
 arrStr = arrStr.reverse();
 ```
 
-##### Third:
+###### Third:
 ```javascript
 //Join the elements of the resulting reversed array, into a new string of chars.
 str = arrStr.join('');
