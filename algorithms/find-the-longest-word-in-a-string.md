@@ -70,7 +70,7 @@ var arrStr = str.split(' ');
 ```javascript
 //Create the variable named (bigger) to use later.
 var bigger;
-//Create a variable called (i) and assign as value zero.
+//Create a variable called (i) and assign zero as value.
 var i = 0;
 ```
 
