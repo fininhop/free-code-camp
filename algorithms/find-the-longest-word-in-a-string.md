@@ -16,7 +16,7 @@
   
 ### I add:
 
-  1 . [Array.Map()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/map)
+  1 . [Array.Map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
 ### Initial code:
 
