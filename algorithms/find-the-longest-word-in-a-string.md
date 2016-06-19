@@ -80,7 +80,7 @@ _The map() method creates a new array with the results of calling a provided fun
 
 ```javascript
 //For each element in the array:
-//It is added around more in the loop.
+//It is added a round more in the loop.
 //The variable (i) adds one to its own value.
 //The parameter (val) contains every word in the target string (srt).
 arrStr.map(function(val){
