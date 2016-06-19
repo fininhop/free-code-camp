@@ -79,7 +79,7 @@ str = str.toLowerCase().replace(/\W|\_|\s/g, '');
 
 ###### Second: 
 
-_Already been done._ >> [Reverse a String](https://github.com/fininhop/free-code-camp/blob/master/algorithms/reverse-a-string.md)
+_Already been explained._ >> [Reverse a String](https://github.com/fininhop/free-code-camp/blob/master/algorithms/reverse-a-string.md)
 
 ```javascript
 //Reverse the string
