@@ -72,7 +72,7 @@ _Remember: To test your regular expressions. You can use websites like:_ https:/
 ###### First: 
 ```javascript
 //Make the string lower case.
-//Use the javascript replace() method with the previous regular expression to remove all the matches.
+//Use the javascript replace() method, with the previous regular expression as parameter, to remove all matches.
 
 str = str.toLowerCase().replace(/\W|\_|\s/g, '');
 ```
