@@ -69,7 +69,7 @@ _Like we can see with the seccond example. Is possible to do all the actions pre
 var arrStr = str.split('');
 ```
 
-##### Seccond:
+##### Second:
 ```javascript
 //Reverse the resulting array.
 arrStr = arrStr.reverse();
