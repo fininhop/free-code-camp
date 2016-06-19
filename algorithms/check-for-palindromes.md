@@ -91,7 +91,7 @@ strReverse = str.split('').reverse().join('');
 
 ###### Third: 
 ```javascript
-//If the reversed string is equal the original string this word is a palindrome.
+//If the reversed string, is equal to the original string. This word is a palindrome.
 
 if(strReverse === str)
   return true;
