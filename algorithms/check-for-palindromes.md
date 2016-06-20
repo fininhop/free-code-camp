@@ -54,7 +54,7 @@ palindrome("eye");
 ```
 
 ### Explanation:
-_Remember: To test your regular expressions. To do that, you can use websites like:_ https://regex101.com_, https://regexr.com
+_Remember: To test your regular expressions, you can use websites like:_ https://regex101.com_, https://regexr.com
 
 ##### Regular expression >> Description:
 ```javascript
