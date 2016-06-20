@@ -88,7 +88,7 @@ arrWords.map(function(val){
 ```javascript
 arrWords.map(function(val){
   
-  //Divide the word, character by character. Then create an array with the result.
+  //Divide the word, character by character. Then create an array (arrChars) with the result.
   arrChars = val.split('');
   
   //Get the first character, and transform it into capital.
