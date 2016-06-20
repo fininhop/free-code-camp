@@ -91,10 +91,13 @@ arrWords.map(function(val){
   //Divide the word, character by character. Then create an array (arrChars) with the result.
   arrChars = val.split('');
   
-  //Get the first character, and transform it into capital.
+  //Get the first character of the courrent word, and transform it into capital.
   arrChars[0] = arrChars[0].toUpperCase();
   
-  //Set the first letter capitalized, to the word with the corresponding index.
+  //By bringing together, all the items of the array called (arrayChars).
+  //Is achieved as a result: 
+  // * A text string (arrChars.join('')) with the first letter capitalized. (Which corresponds to the current word)
+  //Finally, the array named (arrWords) is updated.
   arrWords[i] = arrChars.join('');
   
   i++;
