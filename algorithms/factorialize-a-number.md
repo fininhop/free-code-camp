@@ -104,3 +104,8 @@ factor = i*(i+1);
 else{
   factor = factor*(i+1);
 ```
+
+```javascript
+//This function returns in this example.
+120
+```
