@@ -54,12 +54,16 @@ factorialize(5);
 
 ### Explanation:
 
+##### Steps:
+
+###### First:
 ```javascript
 //Set a variable named (factor) with an initial value of zero.
 
 var factor = 0;
 ```
 
+###### Second:
 ```javascript
 //If the target (num) is zero. Set the variable (factor) to one. And return it.
 
@@ -67,6 +71,7 @@ if(num === 0){
   factor = 1;
 ```
 
+###### Third:
 ```javascript
 //Start a loop (for): It starts at zero and ends when the target (num) value is reached.
 //Assigning the rising value of each iteration to the variable named (i).
@@ -74,6 +79,7 @@ if(num === 0){
 for(var i = 0; i < num; i++){
 ```
 
+###### Fourth:
 ```javascript
 //Now, if the variable (factor) is zero.
 //This means it is the first round of the loop.
@@ -81,6 +87,7 @@ for(var i = 0; i < num; i++){
 if(factor === 0 )
 ```
 
+###### Fifth:
 ```javascript
 //The variable (factor) is product of two numbers. Therefore:
 
@@ -91,6 +98,7 @@ if(factor === 0 )
 factor = i*(i+1);
 ```
 
+###### Sixth:
 ```javascript
 //The following rounds of that loop, do the same. 
 //But as the first number. 
@@ -105,6 +113,7 @@ else{
   factor = factor*(i+1);
 ```
 
+###### Seventh:
 ```javascript
 //This function returns in this example.
 120
