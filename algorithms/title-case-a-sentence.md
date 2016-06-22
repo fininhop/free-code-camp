@@ -88,15 +88,15 @@ arrWords.map(function(val){
 ```javascript
 arrWords.map(function(val){
   
-  //Divide the word, character by character. Then create an array (arrChars) with the result.
+  //Divide the word in letters. Then create an array (arrChars) with the result.
   arrChars = val.split('');
   
-  //Get the first character of the courrent word, and transform it into capital.
+  //Get the first letter of the courrent word, and transform it into capital.
   arrChars[0] = arrChars[0].toUpperCase();
   
   //By bringing together, all the items of the array called (arrayChars). Is achieved as a result: 
   // * A text string (arrChars.join('')) with the first letter capitalized. (Which corresponds to the current word)
-  //Finally, the array named (arrWords) is updated.
+  //Finally, the array named (arrWords) is updated with this value.
   arrWords[i] = arrChars.join('');
   
   i++;
@@ -108,4 +108,7 @@ arrWords.map(function(val){
 //All words stored in the resulting array (arrWords), have their first letter capitalized.
 //The return value are all these words back together and separated by a blank space.
 return arrWords.join(' ');
+
+//In this example it would be:
+//I'm A Little Tea Pot
 ```
