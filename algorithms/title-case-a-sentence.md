@@ -107,7 +107,7 @@ arrWords.map(function(val){
 ```javascript
 //Each word stored in the array (arr). Have had their first letter capitalized.
 //The return value is:
-//All these words back together and separated by a blank space.
+//All these words back together in the sentence.
 return arrWords.join(' ');
 
 //In this example it would be:
