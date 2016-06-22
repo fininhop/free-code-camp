@@ -105,8 +105,9 @@ arrWords.map(function(val){
 
 ###### Third: 
 ```javascript
-//Each word stored in the mtriz (arr). Have had their first letter transformed into capital letter.
-//The return value are all these words back together and separated by a blank space.
+//Each word stored in the array (arr). Have had their first letter capitalized.
+//The return value is:
+//All these words back together and separated by a blank space.
 return arrWords.join(' ');
 
 //In this example it would be:
