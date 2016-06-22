@@ -95,7 +95,7 @@ arrWords.map(function(val){
   arrChars[0] = arrChars[0].toUpperCase();
   
   //By bringing together, all the items of the array called (arrayChars). Is achieved as a result: 
-  // * A text string (arrChars.join('')) with the first letter capitalized. (Which corresponds to the current word)
+  // The same word as before, but with the first letter capitalized.
   //Finally, the array named (arrWords) is updated with this value.
   arrWords[i] = arrChars.join('');
   
