@@ -47,26 +47,17 @@ confirmEnding("Bastian", "n");
 
 ### Explanation:
 
-##### Steps: 
-
-###### First: 
-```javascript
-```
-
-###### Second:
-```javascript
-```
-
-###### Third:
-
+_I think the code is self explanatory._
 
 ```javascript
-```
+//Use of the substr() method. To get the last element of the string of chars.
+str.substr(-target.length)
 
-###### Fourth:
-```javascript
-```
+//Compare this value with the target value.
+//Then return, true or false depending the result of the comparison.
+if(target === str.substr(-target.length))
+  return true;  
+else
+  return false;
 
-###### Fifth:
-```javascript
 ```
