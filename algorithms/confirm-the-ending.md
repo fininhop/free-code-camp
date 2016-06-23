@@ -47,6 +47,9 @@ confirmEnding("Bastian", "n");
 ### Explanation:
 
 ```javascript
+//Use of the substr() method. To get the last element of the string of chars.
+str.substr(-target.length)
+
 //Compare this value with the target value.
 //Then return, true or false depending the result of the comparison.
 if(target === str.substr(-target.length))
