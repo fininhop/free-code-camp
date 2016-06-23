@@ -131,7 +131,7 @@ for(var i = 0; i < arr[0].length; i++){
 ```javascript
 for(var i = 0; i < arr[0].length; i++){
   
-  //Define the variable called bigger. With the value of the first number of the array.
+  //Define the variable called bigger. With the value of the first number of the sub-array.
   bigger = arr[i][0];
 ```
 
