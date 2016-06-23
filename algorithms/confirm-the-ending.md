@@ -44,10 +44,7 @@ function confirmEnding(str, target) {
 confirmEnding("Bastian", "n");
 ```
 
- ### Explanation:
- 
-##### Steps: 
-_I think the code is self explanatory._
+### Explanation:
 
 ```javascript
 //Compare this value with the target value.
