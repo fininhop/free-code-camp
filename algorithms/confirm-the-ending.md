@@ -55,11 +55,10 @@ else
   return false;
 ``` 
 
-##### Additional 
+### Additional 
 
 _This challenge can be solved with the_ [String.prototype.endsWith()](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/String/endsWith) _method, which was introduced in ES2015._
 
-###### Example:
 [Live example](https://jsfiddle.net/fininhop/u1yhr1yt/)
 ```javascript
 function confirmEnding(str, target) {
