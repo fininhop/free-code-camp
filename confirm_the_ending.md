@@ -61,3 +61,17 @@ else
   return false;
 
 ```
+
+##### Additional 
+
+_This challenge can be solved with the_ [String.prototype.endsWith()](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/String/endsWith) _method, which was introduced in ES2015._
+
+###### Example:
+```javascript
+function confirmEnding(str, target) {
+  return str.endsWith(target);
+}
+
+confirmEnding("Bastian", "n");
+```
+
