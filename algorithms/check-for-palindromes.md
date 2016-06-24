@@ -59,12 +59,14 @@ _Remember: To test your regular expressions, you can use websites like:_ https:/
 ##### Regular expression >> Description:
 ```javascript
 /*
-  /\W|\_|\s/g
-  
-  \W = match any non-word character [^a-zA-Z0-9_]
-  \_ = matches the character _ literally
-  \s = match any white space character
-  g modifier: global. All matches (don't return on first match)_
+
+/\W|\_|\s/g
+
+\W = match any non-word character [^a-zA-Z0-9_]
+\_ = matches the character _ literally
+\s = match any white space character
+g modifier: global. All matches (don't return on first match)
+
 */
 ```
 ##### Steps: 
