@@ -67,7 +67,7 @@ _As we can see in the second example. It is possible to call the callback functi
 //The Array.prototype.filter() method returns a new array.
 //For each element of the argument (arr).
 //If the boolean object of the callback function return a true value.
-//The element to the new array is added.
+//The element is added into the new array.
 //Otherwise not.
 
 function bouncer(arr) {
