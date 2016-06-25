@@ -89,7 +89,7 @@ arrStr.map(function(val){
 
 ###### Fourth:
 ```javascript
-//This means it is the first trun.
+//This means it is the first trun of the loop.
 if(i === 1){
   //Set the variable called (bigger), with the total number of characters in the target (srt).
   bigger = val.length;  
