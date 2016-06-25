@@ -64,7 +64,7 @@ var next = 0;
 
 ###### Second: 
 ```javascript
-//Use a loop (for) to iterate through the array elements, (arr).
+//Use a loop (for) to iterate through the array elements, argument (arr).
 for(var i = 0; i < arr.length; i++){
 ```
 
