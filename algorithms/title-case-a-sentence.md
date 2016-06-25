@@ -91,7 +91,7 @@ arrWords.map(function(val){
   //Divide the word in letters. Then create an array (arrChars) with the result.
   arrChars = val.split('');
   
-  //Get the first letter of the courrent word, and transform it into capital.
+  //Get the first letter of the current word, and transform it into capital.
   arrChars[0] = arrChars[0].toUpperCase();
   
   //By bringing together, all the items of the array called (arrayChars). Is achieved as a result: 
