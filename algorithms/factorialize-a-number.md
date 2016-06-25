@@ -82,7 +82,7 @@ for(var i = 0; i < num; i++){
 ###### Fourth:
 ```javascript
 //Now, if the variable (factor) is zero.
-//This means it is the first round of the loop.
+//This means it is the first trun of the loop.
 
 if(factor === 0 )
 ```
@@ -100,14 +100,14 @@ factor = i*(i+1);
 
 ###### Sixth:
 ```javascript
-//The following rounds of that loop, do the same. 
+//The following turns of that loop, do the same. 
 //But as the first number. 
-//Here is used the variable (factor). Previously created in the first round of the loop.
+//Here is used the variable (factor). Previously created in the first turn of the loop.
 //Unlike the variable (i).
 
-//For example if it is the round two of the loop.
-//first round >> factor = 1*(1+1) = 2;
-//        now >> factor = 2*(2+1) = 6; 
+//For example if it is the turn two of the loop.
+//first trun >> factor = 1*(1+1) = 2;
+//       now >> factor = 2*(2+1) = 6; 
 
 else{
   factor = factor*(i+1);
