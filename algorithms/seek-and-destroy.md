@@ -77,7 +77,7 @@ return arrToCheck.filter(function(val){
 
 ###### Third:
 ```javascript
-//The Array.prototype.indexOf () return (-1) if the item sought is not found.
+//The Array.prototype.indexOf() return (-1) if the item sought is not found.
 //So for each item (val) in the array (arrToCheck):
 //If the item (val) does not exist in the array (arrValuesToCheck).
 //The item (val) is added to the array, which will return the method filter().
