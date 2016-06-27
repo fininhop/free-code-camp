@@ -67,7 +67,7 @@ var arrValuesToCheck = Array.prototype.slice.call(arguments, 1);
 
 ###### Second:
 
-_The method_ [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter), _was also used in this another challenge:_ [Falsy Bouncer>> Explanation](https://github.com/fininhop/free-code-camp/blob/master/algorithms/falsy-bouncer.md#explanation)
+_The method_ [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter), _was also used in this another challenge:_ [Falsy Bouncer>> Explanation](https://github.com/fininhop/free-code-camp/blob/master/algorithms/basic-algorithm-scripting/falsy-bouncer.md#explanation)
 
 ```javascript
 // The filter() method creates a new array with all elements that pass the test implemented by the provided function.
