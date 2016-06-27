@@ -161,5 +161,5 @@ else
 
 ###### Sixth
 ```javascript
-// In this example this function returns: "FREE CODE CAMP"====;
+// In this example this function returns: "FREE CODE CAMP".
 ```
