@@ -1,6 +1,5 @@
 # Free Code Camp
-Free code camp challenges
-
+## Basic algorithm cripting
 
 [Reverse a String](https://github.com/fininhop/free-code-camp/blob/master/algorithms/basic-algorithm-scripting/reverse-a-string.md)
 
@@ -27,6 +26,7 @@ Free code camp challenges
 [Mutations](https://github.com/fininhop/free-code-camp/blob/master/algorithms/basic-algorithm-scripting/mutations.md)
 
 [Falsy Bouncer](https://github.com/fininhop/free-code-camp/blob/master/algorithms/basic-algorithm-scripting/falsy-bouncer.md)	
+
 [Seek and Destroy](https://github.com/fininhop/free-code-camp/blob/master/algorithms/basic-algorithm-scripting/seek-and-destroy.md)
 
 [Where do I belong](https://github.com/fininhop/free-code-camp/blob/master/algorithms/basic-algorithm-scripting/where-do-i-belong.md)
