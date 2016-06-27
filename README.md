@@ -1,5 +1,5 @@
 # Free Code Camp
-## Basic algorithm cripting
+## Basic algorithm scripting
 
 [Reverse a String](https://github.com/fininhop/free-code-camp/blob/master/algorithms/basic-algorithm-scripting/reverse-a-string.md)
 
