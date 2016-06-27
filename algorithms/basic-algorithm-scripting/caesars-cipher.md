@@ -40,7 +40,7 @@ rot13("SERR PBQR PNZC");
 
 ### My solution:
 
-[Live Example](https://jsfiddle.net/fininhop/25jpd90d/)
+[Live Example](https://jsfiddle.net/fininhop/r6fdgca5/)
 
 ```javascript
 function rot13(str) { // LBH QVQ VG!
