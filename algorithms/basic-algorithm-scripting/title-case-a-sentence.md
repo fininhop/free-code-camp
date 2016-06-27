@@ -58,7 +58,7 @@ titleCase("I'm a little tea pot");
 _In this challenge the use of_ 
 [Array.Map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) 
 _is identical to the previous one:_ 
-[find-the-longest-word-in-a-string >>Third Step  ](https://github.com/fininhop/free-code-camp/blob/master/algorithms/basic-algorithm-scripting/find-the-longest-word-in-a-string.md#third)
+[find-the-longest-word-in-a-string >>Third Step  ](https://github.com/fininhop/free-code-camp/blob/master/algorithms/basic-algorithm-scripting/basic-algorithm-scripting/find-the-longest-word-in-a-string.md#third)
 
 _Somehow_
 [Array.Map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) 
