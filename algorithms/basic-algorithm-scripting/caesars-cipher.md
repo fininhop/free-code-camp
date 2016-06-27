@@ -167,7 +167,7 @@ else
   strReturn += val;
 ```
 
-###### Sixth
+###### Sixth:
 ```javascript
 // In this example this function returns: "FREE CODE CAMP".
 ```
