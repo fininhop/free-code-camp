@@ -53,12 +53,12 @@ function rot13(str) { // LBH QVQ VG!
       charCodeVal = val.charCodeAt();
       
       if(charCodeVal > 77)
-        strReturn = strReturn+String.fromCharCode(charCodeVal-13);
+        strReturn += String.fromCharCode(charCodeVal-13);
       else
-        strReturn = strReturn+String.fromCharCode(charCodeVal+13);
+        strReturn += String.fromCharCode(charCodeVal+13);
       
     }else{
-      strReturn = strReturn+val;
+      strReturn += val;
     }
     
   });
@@ -135,6 +135,14 @@ charCodeVal = val.charCodeAt();
 
 ###### Fourth:
 ```javascript
+// From the letter (N) to the letter (Z). We have 13 characters.
+// So, if the current character is greater than the letter (N) capitalized.
+// For example:
+// The character (M) has the code number 78.
+// So: 78-13 = 65 (A).
+if(charCodeVal > 77)
+  strReturn += String.fromCharCode(charCodeVal-13);
+
 // But, if the current character is less than the letter (N) capitalized.
 // Contrary to decrease (-13) of the current code, is added (+13).
 // For example:
@@ -149,14 +157,14 @@ charCodeVal = val.charCodeAt();
 // The character (M) has the code number 78.
 // So: 78+13 = 91 ([).
 else
-  strReturn = strReturn+String.fromCharCode(charCodeVal+13);
+  strReturn += String.fromCharCode(charCodeVal+13);
 ```
 
 ###### Fifth:
 ```javascript
 // All non-word characters are left in their original position.
 }else{
-  strReturn = strReturn+val;
+  strReturn += val;
 ```
 
 ###### Sixth
