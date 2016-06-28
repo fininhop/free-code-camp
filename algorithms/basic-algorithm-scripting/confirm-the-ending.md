@@ -66,6 +66,7 @@ _This challenge can be solved with the_ [String.prototype.endsWith()](https://de
 ```javascript
 function confirmEnding(str, target) {
  return str.endsWith(target);
- 
+}
+
 confirmEnding("Bastian", "n");
 ```
