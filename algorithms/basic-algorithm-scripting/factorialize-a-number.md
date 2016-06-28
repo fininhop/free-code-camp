@@ -106,7 +106,7 @@ factor = i*(i+1);
 //Unlike the variable (i).
 
 //For example if it is the turn two of the loop.
-//first trun >> factor = 1*(1+1) = 2;
+//first turn >> factor = 1*(1+1) = 2;
 //       now >> factor = 2*(2+1) = 6; 
 
 else{
